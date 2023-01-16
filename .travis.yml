@@ -26,4 +26,5 @@ deploy:
   script: bash ./deploy.sh
   #this deploy will run only on branch master
   on:
-    branch: master
+    branch: main
+    
